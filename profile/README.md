@@ -1,9 +1,10 @@
-## Sponsorship
 
-Currently, Moeru AI does not offer sponsorship options. Instead, you can sponsor our individual members.
+## 👇 What we do
+🛠️ Build and maintain open-source projects
+🎓 Provide free and accessible learning resources
+🤝 Host workshops, mentorship, and community events
 
-https://github.com/orgs/techfusionid/people
-
-## What we do
-
-👇
+## 🌟 Join Us
+🚀 Contribute to our repositories
+✨ Join discussions and share knowledge
+💡 Learn, build, and grow together
